@@ -1,0 +1,23 @@
+variables:
+  CLUSTERS:
+    DEV:1641:
+      server_name: 'dev'
+      port: 1641
+      version: '8.3.14.1854'
+      ras_port: 1645
+    DEV:
+      server_name: 'dev'
+      port: 1541
+      version: '8.3.13.1809'
+      ras_port: 1545
+    DEV:1741:
+      server_name: 'dev'
+      port: 1741
+      version: '8.3.15.1747'
+      ras_port: 1745
+  SQL_SERVERS:
+    DEV:
+      DBMS: 'MSSQLServer'
+      DB_HOST: 'dev'
+      DB_USER: 'DB_USER'
+      DB_PASSWORD: 'DB_PASSWORD'
