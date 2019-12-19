@@ -1,7 +1,6 @@
 -----
 Usage
 -----
-
 To use tools-1c in a project::
 
     import tools_1c
@@ -28,6 +27,9 @@ Example settings::
           DB_HOST: 'dev'
           DB_USER: 'DB_USER'
           DB_PASSWORD: 'DB_PASSWORD'
+
+
+Cluster management is carried out using ras / rac services
 
 Infobase creation
 ******************
