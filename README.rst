@@ -27,3 +27,5 @@ Features
 --------
 
 * rac wrapper for administration 1C-server
+
+.. include:: docs/usage.rst
