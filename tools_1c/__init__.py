@@ -9,4 +9,4 @@ class Cluster(Cluster):
 
 __author__ = """George Kvelidze"""
 __email__ = 'georgiykvelidze@gmail.com'
-__version__ = '0.1.0'
+__version__ = '0.1.1'
